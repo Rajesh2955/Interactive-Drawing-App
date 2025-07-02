@@ -1,4 +1,4 @@
-# Interactive-Drawing-App
+# Interactive-Drawing-App using JS
 An interactive drawing app that lets users draw freely on a canvas using customizable brush size and color.
 import IPython.display as display
 
